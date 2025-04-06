@@ -1,10 +1,11 @@
 ---
 title: Write post test
 author: fastjien
-date: 2025-04-06 14:10:00 +0800
-categories: [Blogging, Tutorial]
+date: 2025-04-06 13:10:00 +0800
+categories: [Blogging, Test]
 tags: [writing]     # TAG names should always be lowercase
 render_with_liquid: false
+mermaid: true
 ---
 
 # This is a Test
