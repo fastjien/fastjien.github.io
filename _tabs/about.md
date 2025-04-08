@@ -4,20 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hi there 👋
+fastjien 程序员
 
-* Hacking Everything.
+### 个人履历
 
+* Hacking Everything
 
-## Github stats
-<img src ="https://github-readme-stats.vercel.app/api?username=fastjien&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true" alt="GitHub Readme Stats">
-
-<!--
-## Most used languages
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fastjien&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php" alt="GitHub most use language">
--->
-
-## Visit Count
-![](https://profile-counter.glitch.me/fastji/count.svg)
 
 
