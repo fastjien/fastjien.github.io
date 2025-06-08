@@ -112,14 +112,20 @@ future: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+#  provider: # [disqus | utterances | giscus]
+  provider: utterances
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+#    repo: # <gh-username>/<repo>
+    repo: fastjien/fastjien.github.io
+#    issue_term: # < url | pathname | title | ...>
+    issue_term: title
+    label: Comment
+    theme: preferred-color-scheme
+    crossorigin: anonymous
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
