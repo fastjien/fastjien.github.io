@@ -111,6 +111,8 @@ Interceptor.attach(addrRegisterNatives, {
 });
 ```
 
+这段代码里遍历JNINativeMethod结构体，将native函数绑定信息打印了出来。
+
 
 
 ## 更深层次的注册手段
